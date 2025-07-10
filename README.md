@@ -66,3 +66,5 @@ It’s perfect for deploying ML models without needing complex front-end develop
 ## Sample Output (without streamlit)
 Accuracy : 0.98
 ['Spam']
+![Screenshot](images/ss1
+.png)
