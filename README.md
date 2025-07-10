@@ -2,8 +2,9 @@
 Email Spam detection project using Naive Bayes Algorithm
 1.EMAIL SPAM DETECTION
 
-![Screenshot 1](images/ss1.png)  
-![Screenshot 2](images/ss2.png)
+![Screenshot 1](./ss1.png)
+![Screenshot 2](./ss2.png)
+
 
 This is a simple spam detection machine learning model using the Multinomial Naive Bayes algorithm. It classifies SMS messages as Spam or Not Spam. Built as part of the Oasis Infobyte Internship Program.
 
